@@ -1,26 +1,27 @@
 [
-    {
-      "descricao": "Correr",
-      "status": "pendente",
-      "prazo": "15/04/2025"
-    {
-      "descricao": "Treinar",
-      "status": "concluída",
-      "prazo": "10/04/2025"
-    },
-    {
-      "descricao": "Palestrar evento",
-      "status": "pendente",
-      "prazo": "15/06/2025"
-    },
-    {
-      "descricao": "Bootcamp Santander",
-      "status": "pendente",
-      "prazo": "25/06/2025"
-    },
-     {
-      "descricao": "Estudar Java",
-      "status": "em andamento",
-      "prazo": "14/04/2025"
-    }
-  ]
+  {
+    "descricao": "Estudar para a prova de Sistemas Distribuídos",
+    "status": "pendente",
+    "prazo": "2025-04-20"
+  },
+  {
+    "descricao": "Finalizar o relatório do projeto de Python",
+    "status": "em andamento",
+    "prazo": "2025-04-18"
+  },
+  {
+    "descricao": "Apresentar trabalho em grupo na sexta-feira",
+    "status": "pendente",
+    "prazo": "2025-04-19"
+  },
+  {
+    "descricao": "Atualizar tarefas no sistema",
+    "status": "concluída",
+    "prazo": "2025-04-10"
+  },
+  {
+    "descricao": "Revisar código antes da entrega",
+    "status": "pendente",
+    "prazo": "2025-04-17"
+  }
+]
