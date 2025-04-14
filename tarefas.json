@@ -2,26 +2,26 @@
   {
     "descricao": "Estudar para a prova de Sistemas Distribuídos",
     "status": "pendente",
-    "prazo": "2025-04-20"
+    "prazo": "20/04/2025"
   },
   {
     "descricao": "Finalizar o relatório do projeto de Python",
     "status": "em andamento",
-    "prazo": "2025-04-18"
+    "prazo": "18/04/2025"
   },
   {
     "descricao": "Apresentar trabalho em grupo na sexta-feira",
     "status": "pendente",
-    "prazo": "2025-04-19"
+    "prazo": "19/04/2025"
   },
   {
     "descricao": "Atualizar tarefas no sistema",
     "status": "concluída",
-    "prazo": "2025-04-10"
+    "prazo": "10/04/2025"
   },
   {
     "descricao": "Revisar código antes da entrega",
     "status": "pendente",
-    "prazo": "2025-04-17"
+    "prazo": "17/04/2025"
   }
 ]
